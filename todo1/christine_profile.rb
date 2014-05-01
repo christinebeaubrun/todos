@@ -1,1 +1,1 @@
-puts "This is Christine's profile"
+puts "Christine Beaubrun"
